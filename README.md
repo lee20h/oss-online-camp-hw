@@ -18,9 +18,9 @@
 
 ## 과제 제출자
 
-👤 **이 보 라**
+👤 **이 영 훈**
 
-* Github: [@Violet-Bora-Lee](https://github.com/Violet-Bora-Lee)
+* Github: [@lee20h](https://github.com/lee20h)
 
 ## Show your support
 
